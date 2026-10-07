@@ -50,4 +50,4 @@ The first projects will focus on:
 
 I'm always open to exchanging ideas about applied AI, UX, automation and digital products.
 
-[LinkedIn](SEU_LINK_DO_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/leonardoduarteneto/)
