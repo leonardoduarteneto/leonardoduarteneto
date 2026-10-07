@@ -45,3 +45,9 @@ The first projects will focus on:
 - Omnichannel AI architectures
 - Responsible AI in regulated environments
 - Human-centered AI product design
+
+## Connect
+
+I'm always open to exchanging ideas about applied AI, UX, automation and digital products.
+
+[LinkedIn](SEU_LINK_DO_LINKEDIN)
