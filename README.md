@@ -19,3 +19,17 @@ Connecting processes, systems and APIs to reduce friction and improve operationa
 
 ### Digital Products
 Turning complex business and service challenges into practical, usable digital experiences.
+
+## Tech & Tools
+
+**AI & Automation**  
+n8n · LLMs · AI Agents · Prompt Engineering · API Integrations
+
+**Infrastructure**  
+Docker · Docker Swarm · PostgreSQL · Redis · Cloudflare
+
+**Customer Experience & Omnichannel**  
+Chatwoot · WhatsApp Business API · Webchat · Human Handoff
+
+**Product & Web**  
+JavaScript · Astro · WordPress · UX · Product Design
