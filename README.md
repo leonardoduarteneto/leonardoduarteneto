@@ -33,3 +33,15 @@ Chatwoot · WhatsApp Business API · Webchat · Human Handoff
 
 **Product & Web**  
 JavaScript · Astro · WordPress · UX · Product Design
+
+## Selected Work
+
+I'm currently turning some of my practical experience with AI, automation and digital products into public, reusable projects.
+
+The first projects will focus on:
+
+- AI agent handoff patterns
+- Intelligent workflow orchestration
+- Omnichannel AI architectures
+- Responsible AI in regulated environments
+- Human-centered AI product design
